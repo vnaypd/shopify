@@ -84,7 +84,7 @@ function AppHeader() {
           },
         ]}
       />
-      <Typography.Title> BadshaH StorE </Typography.Title>
+      <Typography.Title> Shopify </Typography.Title>
       <AppCart />
     </div>
   );
