@@ -9,6 +9,7 @@ import {
   message,
   Select,
 } from "antd";
+
 import { useEffect, useState } from "react";
 import { addToCart, getAllProducts, getProductsByCategory } from "../../API";
 import { useParams } from "react-router-dom";
